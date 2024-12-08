@@ -1,0 +1,14 @@
+D:\Learning\Coding\ctci\bin\Debug\net8.0\ctci.exe
+D:\Learning\Coding\ctci\bin\Debug\net8.0\ctci.deps.json
+D:\Learning\Coding\ctci\bin\Debug\net8.0\ctci.runtimeconfig.json
+D:\Learning\Coding\ctci\bin\Debug\net8.0\ctci.dll
+D:\Learning\Coding\ctci\bin\Debug\net8.0\ctci.pdb
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ctci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ctci.AssemblyInfoInputs.cache
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ctci.AssemblyInfo.cs
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ctci.csproj.CoreCompileInputs.cache
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ctci.dll
+D:\Learning\Coding\ctci\obj\Debug\net8.0\refint\ctci.dll
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ctci.pdb
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ctci.genruntimeconfig.cache
+D:\Learning\Coding\ctci\obj\Debug\net8.0\ref\ctci.dll
